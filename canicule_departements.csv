@@ -29,7 +29,7 @@ code_departement,niveau_code,niveau_libelle
 27,1,vert
 28,1,vert
 29,1,vert
-30,2,jaune
+30,3,orange
 31,1,vert
 32,1,vert
 33,1,vert
@@ -42,12 +42,12 @@ code_departement,niveau_code,niveau_libelle
 40,1,vert
 41,1,vert
 42,3,orange
-43,3,orange
+43,2,jaune
 44,1,vert
 45,1,vert
 46,1,vert
 47,1,vert
-48,2,jaune
+48,1,vert
 49,1,vert
 50,1,vert
 51,1,vert
@@ -62,7 +62,7 @@ code_departement,niveau_code,niveau_libelle
 60,1,vert
 61,1,vert
 62,1,vert
-63,3,orange
+63,2,jaune
 64,1,vert
 65,1,vert
 66,2,jaune
