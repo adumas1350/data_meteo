@@ -1,6 +1,6 @@
 code_departement,niveau_code,niveau_libelle
 01,3,orange
-02,2,jaune
+02,3,orange
 03,3,orange
 04,3,orange
 05,3,orange
@@ -58,10 +58,10 @@ code_departement,niveau_code,niveau_libelle
 56,3,orange
 57,2,jaune
 58,3,orange
-59,1,vert
-60,2,jaune
+59,2,jaune
+60,3,orange
 61,3,orange
-62,1,vert
+62,2,jaune
 63,3,orange
 64,2,jaune
 65,2,jaune
@@ -79,7 +79,7 @@ code_departement,niveau_code,niveau_libelle
 77,3,orange
 78,3,orange
 79,3,orange
-80,1,vert
+80,2,jaune
 81,3,orange
 82,3,orange
 83,3,orange
